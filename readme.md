@@ -1,9 +1,11 @@
 # ProdAI - ReAct Agent Architecture Design
 
-## Overview
+# **RL agent**: [GitHub Repository](https://github.com/OussamaAbderraoufAttia/rl_simulation_business_plans)
+
+## Overview  
 ProdAI is an AI-driven multi-agent system designed to optimize production, sales, and logistics. It enables automated decision-making, real-time KPI monitoring, and adaptive planning to enhance operational efficiency.
 
-## Core Components
+## Core Components  
 - **Agents:** Sales, Production, and Logistics agents, each with:
   - State Manager
   - Plan Generator
@@ -13,16 +15,16 @@ ProdAI is an AI-driven multi-agent system designed to optimize production, sales
 - **Shared KPI Framework:** Tracks efficiency, output, quality, and costs.
 - **Communication Protocol:** Agents exchange STATUS_UPDATE, ALERT, PLAN_PROPOSAL, and more.
 
-## Decision & Planning
+## Decision & Planning  
 - Agents analyze KPIs, detect issues, and propose solutions.
 - Multi-agent collaboration ensures optimal decision-making.
 - Simulations evaluate potential outcomes before execution.
 
-## Emergency Handling
+## Emergency Handling  
 - Critical situations trigger automated response levels.
 - Escalation to human intervention when necessary.
 
-## Implementation Phases
+## Implementation Phases  
 1. **Core Framework:** Basic agent structure, KPI tracking.
 2. **Enhanced Intelligence:** Advanced planning, learning.
 3. **Full Automation:** Autonomous decision-making, adaptation.
@@ -31,7 +33,9 @@ ProdAI is an AI-driven multi-agent system designed to optimize production, sales
 
 ## Translator Agent: in order to guaratee the flexibility and the globaility of the solution
 
-ProdAI streamlines industrial operations through AI-powered automation, enhancing efficiency and decision-making across production, sales, and logistics.
+**ProdAI streamlines industrial operations through AI-powered automation, enhancing efficiency and decision-making across production, sales, and logistics.**
 
 For more details, check this file:  
 **ProdAI - AI Architecture:** [Google Docs Link](https://docs.google.com/document/d/1XQA9S8ZqPGpfjGwAUFxLSXq7ddfencXv7aqrHqLSucw/edit?tab=t.0)
+
+
