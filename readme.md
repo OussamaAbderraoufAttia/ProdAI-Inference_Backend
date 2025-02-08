@@ -27,6 +27,10 @@ ProdAI is an AI-driven multi-agent system designed to optimize production, sales
 2. **Enhanced Intelligence:** Advanced planning, learning.
 3. **Full Automation:** Autonomous decision-making, adaptation.
 
+## RL Agent: a Reiforcement Learning env to ameleaorate and simulate all the possible scenarios.
+
+## Translator Agent: in order to guaratee the flexibility and the globaility of the solution
+
 ProdAI streamlines industrial operations through AI-powered automation, enhancing efficiency and decision-making across production, sales, and logistics.
 
 For more details, check this file:  
