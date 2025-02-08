@@ -3,5 +3,6 @@ flask-cors
 joblib 
 python-dotenv 
 pandas
+langchain
 pickle
 groq
