@@ -1,4 +1,4 @@
-# ProdAI - Intelligent Production Management System
+# ProdAI - ReAct Agent Architecture Design
 
 ## Overview
 ProdAI is an AI-driven multi-agent system designed to optimize production, sales, and logistics. It enables automated decision-making, real-time KPI monitoring, and adaptive planning to enhance operational efficiency.
