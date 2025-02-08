@@ -1,0 +1,5 @@
+.history
+.env
+backend/agent-env
+backend/venv
+front/lib

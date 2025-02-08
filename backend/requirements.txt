@@ -1,0 +1,7 @@
+flask 
+flask-cors 
+joblib 
+python-dotenv 
+pandas
+pickle
+groq
