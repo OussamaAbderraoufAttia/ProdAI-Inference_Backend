@@ -3,3 +3,5 @@
 backend/agent-env
 backend/venv
 front/lib
+setup_project.bat
+run_all.bat
